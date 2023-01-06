@@ -1,6 +1,8 @@
 # My-first-cli
 Python CLI following geeks4geeks tutorial
 
+https://www.geeksforgeeks.org/command-line-interface-programming-python/
+
 ```
 C:\My-first-cli>.\mycli.py -h
 usage: mycli.py [-h] [num ...]
